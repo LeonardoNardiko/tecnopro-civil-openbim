@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tecnopro-civil-openbim"
+version = "1.0.0"
+description = "OpenBIM & civil/structural engineering normative benchmarks (ABNT NBR 6122 SPT, NBR 6123 Wind, FIEBDC-3 .bc3) — TecnoPRO Civil"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Leonardo de Lima Junior (Leonardo Nardiko)"}
+]
+urls = {Homepage = "https://civil.tecnopro.me", Repository = "https://github.com/LeonardoNardiko/tecnopro-civil-openbim"}

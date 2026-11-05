@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use TecnoPRO Civil OpenBIM benchmarks or serializers in engineering projects or research, please cite using this metadata."
+title: "TecnoPRO Civil & OpenBIM Normative Reference Suite"
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+url: "https://civil.tecnopro.me"
+repository-code: "https://github.com/LeonardoNardiko/tecnopro-civil-openbim"
+authors:
+  - family-names: "de Lima Junior"
+    given-names: "Leonardo"
+    alias: "Leonardo Nardiko"
+    website: "https://nardiko.me"
+keywords:
+  - civil-engineering
+  - openbim
+  - nbr-6122
+  - nbr-6123
+  - fiebdc-3
+  - bc3
